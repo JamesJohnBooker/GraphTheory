@@ -1,0 +1,2 @@
+# GraphTheory
+This script contains functions to analyse properties of a graph. Inputting a graph as a 2D array, the script can be used to determine whether or not there is an edge between two vertices, what the minimum distance between two vertices in a graph is (or if they are even connected) and whether or not the entire graph is connected (that is, whether or not there is a path between any two verties in the graph).
